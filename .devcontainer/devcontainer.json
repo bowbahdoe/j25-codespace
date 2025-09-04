@@ -1,0 +1,9 @@
+{
+  "name": "ModernJava",
+  "image": "ghcr.io/bowbahdoe/run-java-code-ci-latest:latest",
+  "hostRequirements": {
+    "cpus": 1,
+    "memory": "1gb",
+    "storage": "2gb"
+  }
+}
